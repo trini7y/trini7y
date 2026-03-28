@@ -63,12 +63,6 @@ Full-Stack Software Engineer specializing in building scalable systems, APIs, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trini7y&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trini7y&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trini7y&theme=tokyonight" />
 </p>
 
