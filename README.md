@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Okeke</h1>
-<h3 align="center">Full-Stack Software Engineer | Backend Specialist | Educator</h3>
+<h3 align="center">Full-Stack Software Engineer | Backend Specialist | Frontend Specialist | Educator</h3>
 
 <p align="center">
   <a href="https://github.com/trini7y"><img src="https://img.shields.io/github/followers/trini7y?label=Followers&style=social" /></a>
