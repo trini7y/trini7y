@@ -52,32 +52,38 @@ Relevant Coursework:
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" /><br/>
+  JavaScript • TypeScript • Python • Java
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,django,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nestjs,django,spring,nodejs" /><br/>
+  NestJS • Django • Spring Boot • Node.js
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,angular" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,angular" /><br/>
+  Vue.js • React • Next.js • Nuxt.js • Angular
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br/>
+  PostgreSQL • MongoDB • MySQL • Redis
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux" /><br/>
+  Docker • Kubernetes • AWS • Nginx • Linux
 </p>
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,rabbitmq,tailwind,scss" />
+  <img src="https://skillicons.dev/icons?i=git,rabbitmq,tailwind,scss" /><br/>
+  Git • RabbitMQ • TailwindCSS • SCSS
 </p>
 
 ---
