@@ -8,6 +8,12 @@
 
 ---
 
+## 🧠 Summary
+
+Full-Stack Software Engineer specializing in building scalable systems, APIs, and modern web applications. Experienced with Node.js (NestJS), Java (Spring Boot), and frontend frameworks like Vue.js and React, alongside cloud-native technologies such as Docker and Kubernetes. Strong in performance optimization, system design, and test-driven development, with a proven track record of reducing latency, improving reliability, and shipping production-ready solutions. Combines backend depth with frontend expertise to deliver complete, high-impact end-to-end systems.
+
+---
+
 ## 💡 About Me
 
 - 🔭 Software Engineer at **Seamfix**
@@ -107,4 +113,3 @@
 ## ⚡ Fun Fact
 
 > I don’t just write code — I optimize, scale, and teach others how to build impactful systems.
-
