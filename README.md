@@ -1,64 +1,111 @@
+<h1 align="center">Hi 👋, I'm Desmond Okeke</h1>
+<h3 align="center">Full-Stack Software Engineer | Backend Specialist | Educator</h3>
 
-# 👋 Hi, I'm Desmond Tochukwu Okeke
-
-### 🚀 Software Engineer | AI Orchestrator | Identity Management Specialist
-
-I am a seasoned **Software Engineer** currently at **Seamfix** [5, 6], where I focus on building high-stakes infrastructure for Africa’s leading **Identity and Access Management** platforms [11]. I specialize in backend security, microservices, and event-driven architectures, with a passion for leveraging AI to accelerate the SDLC.
-
----
-
-## 🛠️ Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Java, HTML5, CSS3 [62] |
-| **Frameworks/Libs** | Spring Boot, Nest.js, Node.js, React.js, Next.js, Vue.js, Angular.js [62] |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis [62] |
-| **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes (KCNA Certified), Nginx, RabbitMQ [62, 66] |
-| **Testing/Tools** | Mockito, Git, RESTful APIs, TailwindCSS [62] |
+<p align="center">
+  <a href="https://github.com/trini7y"><img src="https://img.shields.io/github/followers/trini7y?label=Followers&style=social" /></a>
+  <a href="mailto:okekedesmond.t@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
+  <a href="https://bit.ly/okekedesmondlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+</p>
 
 ---
 
-## 💼 What I’m Doing at Seamfix
+## 💡 About Me
 
-At **Seamfix**, I am deeply involved in the development of **Fixiam** (Identity & Access Management) and other mission-critical solutions [11]:
-
-* **Optimizing Performance:** Reduced dashboard latency from 1028ms to 200ms (80% improvement) [8].
-* **Security & Identity:** Designed and implemented the SMS system (SMPP) for Nigeria's leading IAM platform, enhancing user onboarding [11].
-* **Observability:** Built a full-stack SCIM logging system for detailed auditing and troubleshooting [12].
-* **Code Excellence:** Spearheaded a test coverage increase from 13% to 80% [10].
-
----
-
-## 🎓 Education & Certifications
-
-* **BSc (Hons) Industrial Mathematics with Computer Science** | University of Lagos [35, 37]
-* **GitHub Certified:** GitHub Copilot (GH-300) 🏆 *(Focused on AI-Native Development & Governance)*
-* **Kubernetes and Cloud Native Associate (KCNA)** [66]
-* **Udacity Full Stack Developer Nanodegree** [38, 65]
+- 🔭 Software Engineer at **Seamfix**
+- ⚡ Improved system performance by **80% (1028ms → 200ms)**
+- 🧪 Increased test coverage from **13% → 80%**
+- 📱 Built scalable **SMS systems (SMPP + multi-provider)**
+- 🏗️ Passionate about **Backend Architecture, DevOps & Scalable Systems**
+- 🎓 BSc Industrial Mathematics with Computer Science — University of Lagos
+- 👨‍🏫 Educator & Mentor (trained **1500+ students**)
 
 ---
 
-## 🌟 Open Source & Projects
+## 🛠️ Tech Stack
 
-* **[Gomerce Backend Service](https://github.com/Gomerce/GomerceBE):** A B2B2C e-commerce API built as part of an ALX-T Udacity project [30, 31, 32].
-* **Books in Browsers:** Proposed an archival tool for the Internet Archive to extract URLs from digitized text.
-* **Role-Context IAM:** Designed a feature for administrative/staff view toggling using Angular 18 and NestJS.
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,django,spring,nodejs" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,angular" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,rabbitmq,tailwind,scss" />
+</p>
 
 ---
 
-## 🏆 Awards
+## 📊 GitHub Stats
 
-* **NASA Space App Challenge:** Global Nominee [69]
-* **IEEExtreme Programming Competition:** National 1st Position (Nigeria) [69]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trini7y&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trini7y&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 Gomerce Backend
+> Backend API for a B2B2C e-commerce platform
+
+- RESTful API architecture
+- Scalable backend design
+- Open-source collaboration
+
+🔗 https://github.com/Gomerce/GomerceBE
 
 ---
 
-## 🤝 Connect with Me
+## 🏆 Achievements
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/okekedesmond) [4]
-* 📧 [okekedesmond.t@gmail.com](mailto:okekedesmond.t@gmail.com) [4]
-* 🐦 [Twitter/X](https://x.com/yourhandle) 
+- 🥇 **1st Position** — IEEExtreme Programming Competition (National)
+- 🌍 **NASA Space Apps Challenge** — Global Nominee
+- 🎓 **Udacity Full Stack Nanodegree**
+- ☁️ **Kubernetes & Cloud Native Associate (KCNA)**
 
 ---
-*“I believe in the 'WET' (Write Everything Twice) philosophy for high-velocity environments—optimizing for clarity and speed while leveraging AI to handle the boilerplate.”*
+
+## 👨‍🏫 Leadership & Impact
+
+- 🚀 Trained **1500+ students** in Python & Raspberry Pi (Buildathon)
+- 📚 Developed programming curriculum at STEMCafe
+- 🎯 Founded STEM club impacting **1000+ students**
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: okekedesmond.t@gmail.com  
+- 💼 LinkedIn: https://bit.ly/okekedesmondlinkedin  
+- 💻 GitHub: https://github.com/trini7y  
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just write code — I optimize, scale, and teach others how to build impactful systems.
+
