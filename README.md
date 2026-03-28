@@ -128,7 +128,6 @@ Relevant Coursework:
 
 ## 📫 Let's Connect
 
-- 📧 Email: okekedesmond.t@gmail.com  
 - 💼 LinkedIn: https://bit.ly/okekedesmondlinkedin  
 - 💻 GitHub: https://github.com/trini7y  
 
