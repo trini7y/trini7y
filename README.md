@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/trini7y"><img src="https://img.shields.io/github/followers/trini7y?label=Followers&style=social" /></a>
-  <a href="mailto:okekedesmond.t@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
   <a href="https://bit.ly/okekedesmondlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
 </p>
 
