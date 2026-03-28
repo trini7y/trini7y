@@ -21,8 +21,30 @@ Full-Stack Software Engineer specializing in building scalable systems, APIs, an
 - 🧪 Increased test coverage from **13% → 80%**
 - 📱 Built scalable **SMS systems (SMPP + multi-provider)**
 - 🏗️ Passionate about **Backend Architecture, DevOps & Scalable Systems**
-- 🎓 BSc Industrial Mathematics with Computer Science — University of Lagos
 - 👨‍🏫 Educator & Mentor (trained **1500+ students**)
+
+---
+
+## 🎓 Education
+
+**University of Lagos** — *BSc (Hons) Industrial Mathematics with Computer Science*  
+📍 Lagos, Nigeria | 🗓️ 2018 – 2023  
+
+Relevant Coursework:
+- Data Structures & Algorithms  
+- Operating Systems  
+- System Analysis & Design  
+- Systems Architecture  
+
+---
+
+**Udacity** — *Full Stack Developer Nanodegree*  
+🗓️ 2020 – 2022  
+
+- Built and deployed full-stack applications  
+- Focus on APIs, databases, and modern web development  
+
+🔗 https://github.com/trini7y/Udacity-Full-Stack-Developer-ND
 
 ---
 
